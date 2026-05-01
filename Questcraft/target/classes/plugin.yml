@@ -1,0 +1,11 @@
+main: com.quest.questcraft.Questcraft
+version: 1.0.0
+name: Questcraft
+author: 187J3X1
+api-version: 1.21
+
+commands:
+  quest:
+    description: Main command for the quest system
+    usage: /quest [list|start|progress|abandon|complete] <args>
+    aliases: [q]
