@@ -8,6 +8,8 @@ QuestCraft adds a simple daily quest system to your Minecraft server. Every day,
 
 Complete quests to earn credits, then spend those credits in the quest shop to buy building blocks and items.
 
+---
+
 Quick Commands:
 
 Use /quest help to explore all plugin commands
@@ -20,6 +22,8 @@ Stop your server. Add plugins while the server is offline to avoid file locks or
 Copy the .jar file into the "plugins" folder of your server directory.
 Restart the server and join the server.
 You should be able to see the QuestCraft message showing up in your chat box
+
+---
 
 Feel free to report any errors :)
 You may get the source code from the file, QuestCraft.
