@@ -23,3 +23,9 @@ You should be able to see the QuestCraft message showing up in your chat box
 
 Feel free to report any errors :)
 You may get the source code from the file, QuestCraft.
+
+<img width="880" height="543" alt="2026-04-30_20 12 25" src="https://github.com/user-attachments/assets/d0972139-ef6a-4ce2-aefa-b589594af13f" />
+<img width="880" height="495" alt="2026-04-30_20 13 33" src="https://github.com/user-attachments/assets/5fc2bc9e-7a3c-4e27-a643-0fd3b1fff040" />
+<img width="881" height="564" alt="2026-04-30_20 11 07" src="https://github.com/user-attachments/assets/eb25a1e3-fd28-4a1a-ba6c-49a53b0816f9" />
+<img width="645" height="265" alt="2026-04-30_20 13 13" src="https://github.com/user-attachments/assets/0bf71250-e333-49c9-8550-209532e888f6" />
+
