@@ -22,4 +22,4 @@ Restart the server and join the server.
 You should be able to see the QuestCraft message showing up in your chat box
 
 Feel free to report any errors :)
-
+You may get the source code from the file, QuestCraft.
